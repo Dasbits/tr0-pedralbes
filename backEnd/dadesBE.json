@@ -1,0 +1,104 @@
+[
+    {
+      "pregunta": "Quina és la distància de frenada en una carretera sec en condicions normals a una velocitat de 90 km/h?",
+      "resposta_correcta": "45 metres",
+      "respostes_incorrectes": ["30 metres", "60 metres", "75 metres"],
+      "imatge": "https://practicatest.com/static/img/test/CL/5ed919e86f746eced0677635d7c221f0.jpg"
+    },
+    {
+      "pregunta": "Quina és la velocitat màxima permessa en una zona residencial?",
+      "resposta_correcta": "50 km/h",
+      "respostes_incorrectes": ["30 km/h", "60 km/h", "70 km/h"],
+      "imatge": "https://previews.123rf.com/images/arinahabich/arinahabich1507/arinahabich150700420/42019829-vista-a%C3%A9rea-de-la-zona-residencial-y-en-lakewood-colorado.jpg"
+    },
+    {
+      "pregunta": "Què significa una llum verda en un semàfor?",
+      "resposta_correcta": "Pots avançar",
+      "respostes_incorrectes": ["Pots girar a l'esquerra", "Atura't", "Redueix la velocitat"],
+      "imatge": "https://4.bp.blogspot.com/-lh4emNbMUc0/V5H62RQND4I/AAAAAAAAGdw/Y4bIWubLfkEAp7xPyUXbMW5ddaLrEurgACEw/s1600/estabanell-energia-llum-verda-al-sem%25C3%25A0for-m%25C3%25A9s-eficient-del-m%25C3%25B3n%2B02.jpg"
+    },
+    {
+      "pregunta": "Quin és el primer pas que has de fer abans de girar a la dreta?",
+      "resposta_correcta": "Posar el senyal de gir a la dreta",
+      "respostes_incorrectes": ["Mirar pel retrovisor", "Frenar fort", "Augmentar la velocitat"],
+      "imatge": "https://viajology.com/wp-content/uploads/2013/08/jr_junctions_turning-right-minor-onto-major.jpg"
+    },
+    {
+      "pregunta": "Quina distància mínima has de mantenir amb el vehicle que circula davant de tu?",
+      "resposta_correcta": "2 segons",
+      "respostes_incorrectes": ["1 segon", "3 segons", "5 segons"],
+      "imatge": "https://raccautoescuela.es/wp-content/uploads/2021/10/DISTANCIA-DE-SEGURIDAD-I-1-1024x684.jpg"
+    },
+    {
+      "pregunta": "Què significa una llum groga intermitent en un semàfor?",
+      "resposta_correcta": "Advertència de precaució",
+      "respostes_incorrectes": ["Pots avançar", "Atura't", "Redueix la velocitat"],
+      "imatge": "https://www.autoescolasantfeliu.com/wp-content/uploads/2019/11/Sem%C3%A0for-en-groc-Autoescola-Sant-Feliu.jpg"
+    },
+    {
+      "pregunta": "Quina és la velocitat màxima permesa en una autopista?",
+      "resposta_correcta": "120 km/h",
+      "respostes_incorrectes": ["100 km/h", "140 km/h", "80 km/h"],
+      "imatge": "https://deltacat.cat/wp-content/uploads/2022/11/AP7.jpg"
+    },
+    {
+      "pregunta": "Què significa una senyal de pas de vianants?",
+      "resposta_correcta": "Has de deixar passar els vianants",
+      "respostes_incorrectes": ["Has de girar a l'esquerra", "Has de frenar", "Pots avançar"],
+      "imatge": "https://syssa.com/39390-large_default/pas-de-vianants.jpg"
+    },
+    {
+      "pregunta": "Quin tipus de vehicle ha de parar sempre davant d'un pas a nivell?",
+      "resposta_correcta": "Tots els vehicles",
+      "respostes_incorrectes": ["Només els camions", "Només els cotxes petits", "Només els ciclomotors"],
+      "imatge": "https://www.sostenible.cat/sites/sostenible.cat/files/public/usuari/325/propuesta_contramano_sevilla.jpg"
+    },
+    {
+      "pregunta": "Què has de fer si el semàfor està en vermell i no hi ha cap senyal de girs restrictius?",
+      "resposta_correcta": "Aturar-te i esperar",
+      "respostes_incorrectes": ["Pots avançar", "Girar a la dreta", "Redueix la velocitat"],
+      "imatge": "https://www.autopista.es/uploads/s1/10/12/49/17/asi-funcionan-los-radares-de-semaforo-y-esta-es-la-multa-por-saltarselo-en-color-rojo-foto-istock.jpeg"
+    },
+    {
+      "pregunta": "Quin és el límit de velocitat en una via urbana?",
+      "resposta_correcta": "50 km/h",
+      "respostes_incorrectes": ["30 km/h", "60 km/h", "70 km/h"],
+      "imatge": "https://www.autopista.es/uploads/s1/92/35/39/4/limites-ciudad.jpeg"
+    },
+    {
+      "pregunta": "Quina distància mínima has de mantenir quan segueixes un ciclista?",
+      "resposta_correcta": "1 metre",
+      "respostes_incorrectes": ["20 centímetres", "2 metres", "3 metres"],
+      "imatge": "https://img.remediosdigitales.com/17b602/1366_2000/840_560.jpeg"
+    },
+    {
+      "pregunta": "Què significa una línia doble continua a la carretera?",
+      "resposta_correcta": "Prohibició de sobrepàssar",
+      "respostes_incorrectes": ["Permesa de sobrepàssar", "No hi ha restriccions", "Només per a cotxes grans"],
+      "imatge": "https://images.prismic.io/obikares/ae4892de-786e-4cbd-9481-a66d6542049f_doble-linea-continua.jpg?auto=compress,format&rect=0,228,4096,2303&w=980&h=551"
+    },
+    {
+      "pregunta": "Quina és la velocitat màxima permesa en una zona escolar quan hi ha infants presents?",
+      "resposta_correcta": "30 km/h",
+      "respostes_incorrectes": ["20 km/h", "40 km/h", "50 km/h"],
+      "imatge": "https://pbs.twimg.com/media/DDBH7PoXcAEAv0G.jpg"
+    },
+    {
+      "pregunta": "Quina llum del teu vehicle has d'utilitzar quan estàs conduint amb boira densa?",
+      "resposta_correcta": "Llums de boira",
+      "respostes_incorrectes": ["Llums de carretera", "Llums de cruesa", "Llums de cruïlla"],
+      "imatge": "https://raccautoescuela.es/wp-content/uploads/2021/11/luces-del-coche-II-1-1024x683.jpg"
+    },
+    {
+      "pregunta": "Què indica una línia longitudinal groga discontinua a la carretera?",
+      "resposta_correcta": "Marge de la calçada",
+      "respostes_incorrectes": ["Pas de vianants", "Pas de zebra", "Prohibició de girar"],
+      "imatge": "https://www.autoescoladelta.com/wp-content/uploads/2021/05/longitudinal-discontinua-amarilla.webp"
+    },
+    {
+      "pregunta": "Quina és la distància mínima que has de mantenir amb el vehicle que circula davant de tu quan plou fortament?",
+      "resposta_correcta": "4 segons",
+      "respostes_incorrectes": ["1 segon", "2 segons", "3 segons"],
+      "imatge": "https://www.dgt.es/export/sites/web-DGT/.galleries/Images/noticias/todo-lo-que-necesitas-saber-para-circular-bajo-la-lluvia/EMPANAMIENTO.jpg_1637756432.jpg"
+    }
+  ]

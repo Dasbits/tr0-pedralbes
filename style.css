@@ -1,0 +1,199 @@
+:root{
+    --colorDeFons: #beb7a4
+}
+
+.oculta{
+    display: none;
+}
+
+#zoneIniciar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button#iniciar{
+    width: 30%;
+    height: 20%;
+    margin-top: 60%;
+    background-color: var(--colorDeFons);
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+#capcalera{
+    grid-area: capcalera;
+}
+#capcalera>p#temps{
+    grid-area: temps;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    margin-top: 10%;
+}
+#capcalera>h1{
+    grid-area: titlePreguntes;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+#capcalera>div#imgExitZone{
+    grid-area: sortir;
+    width: 100%;
+    height: 100%;
+
+}
+#capcalera>div>img#tornar_inici{
+    height: 100%;
+    max-height: 100%;
+    max-width: 100%;
+    float: right;
+    filter: brightness(0%);
+}
+
+#capcalera{
+    width: 100%;
+    height: 20%;
+    display: grid;
+    grid-template-areas: "temps titlePreguntes sortir";
+    background-color: var(--colorDeFons);
+}
+
+div#partida{
+    margin-top: 30px;
+}
+/*IMATGE*/
+div#partida>div>img{
+    grid-area: imgpreg;
+    width: 100%;
+    height: 200px;
+}
+
+/*PREGUNTA*/
+div#partida>div>div#enunciat{
+    grid-area: pregunta;
+    text-align: center;
+}
+#enunciat{
+    height: 50px;
+}
+
+div#partida>div>div#enunciat>p{
+    font-size: 20px;
+}
+
+/*RESPOSTES*/
+div#respostes:nth-child(1){
+    grid-area: resp1;
+}
+div#respostes:nth-child(2){
+    grid-area: resp2;
+}
+div#respostes:nth-child(3){
+    grid-area: resp3;
+}
+div#respostes:nth-child(4){
+    grid-area: resp4;
+}
+#respostes>button{
+    background-color: var(--colorDeFons);
+}
+div#partida>div.activa>div#respostes{
+    grid-area: respostes;
+    display: grid;
+    grid-template-areas: 
+    "resp1"
+    "resp2"
+    "resp3"
+    "resp4";
+    gap: 5px;
+}
+
+button#enviar{
+    grid-area: send;
+    width: 100%;
+    margin-top: 30px;
+    padding: 2%;
+    background-color: var(--colorDeFons);
+}
+
+/*BOTONS ENRERE ENDEVANT*/
+div#buttonsEnrereEndevat>button{
+    background-color: var(--colorDeFons);
+}
+div#partida>div>div#buttonsEnrereEndevat:nth-child(1){
+    grid-area: enrera;
+}
+div#partida>div>div#buttonsEnrereEndevat:nth-child(2){
+    grid-area: endevant;
+}
+div#partida>div.activa>div#buttonsEnrereEndevat{
+    grid-area: buttonsEE;
+    display: grid;
+    grid-template-areas: "enrera endevant";
+}
+
+#tornarJugar{
+    grid-area: tornJugar;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 10%;
+    background-color: var(--colorDeFons);
+}
+
+#partida>div.activa{
+    height: 80%;
+    display: grid;
+    grid-template-areas: 
+    "imgpreg imgpreg imgpreg"
+    "pregunta pregunta pregunta"
+    "respostes respostes respostes"
+    "buttonsEE buttonsEE buttonsEE"
+    ;
+    gap: 20px;
+}
+
+#img_aprobat{
+    grid-area: imgApro;
+    width: 100%;
+    height: 100%;
+}
+#encertades{
+    grid-area: encer;
+    text-align: center;
+    font-size: 30px;
+}
+#img_crono{
+    grid-area: imgCrono;
+    width: 100%;
+    height: 100%;
+}
+#tempsTrigat{
+    grid-area: tempsTrig;
+    text-align: center;
+    font-size: 30px;
+}
+
+#resultats{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 40%;
+    display: grid;
+    grid-template-areas:
+    "imgApro imgApro encer encer"
+    "imgCrono imgCrono tempsTrig tempsTrig"
+    ;
+    grid-template-columns: 25% 25% 25% 25%;
+    gap: 20px;
+}
+
+#title_res{
+    padding: 1px;
+    text-align: center;
+    width: 100%;
+    height: 20%;
+    background-color: var(--colorDeFons);
+}
+#title_res>p{
+    font-size: 24px;
+}
